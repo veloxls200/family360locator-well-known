@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.testlab.family360",
+      "sha256_cert_fingerprints": [
+        "A5:1A:38:7E:3B:3C:C8:EC:B4:C1:6A:FD:55:2E:31:6E:3D:DA:72:02:AC:32:80:7F:03:12:7E:3D:F4:19:0C:42"
+      ]
+    }
+  }
+]
